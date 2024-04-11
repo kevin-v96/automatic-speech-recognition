@@ -1,5 +1,5 @@
 # automatic-speech-recognition
-ASR model written using CNN and RNN (LSTM) in PyTorch using the Connectionist Temporal Classification (CTC) algorithm for alignment.
+ASR model written using CNN and RNN (GRU) in PyTorch with the Connectionist Temporal Classification (CTC) algorithm for alignment.
 
 Trained for ~1.5hours on a GTX3090 with 32GB of VRAM.
 
